@@ -29,18 +29,20 @@ Task 4: Set up authentication methods and registration options for AZ500Group1.â
 Task 5: Set up notifications and customizations for AZ500Group1. 
 
 Task 6: Test the SSPR process as a user, i.e., AZ500User2, who is a member of AZ500Group1.â€¯ 
+
+
 <h2>Deployment and Configuration Steps</h2>
 
+
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9df6e855-7701-476b-abe7-de7886a01e11">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/6aba3fd5-5c93-49f7-bc29-da36cc1d3efb">
-
-
+<img width="1440" alt="image" src="https://github.com/RMBaez/SSPR/assets/170957530/d33b36fa-137c-4a48-8a30-f6a8df0b3b4c">
+<img width="1440" alt="image" src="https://github.com/RMBaez/SSPR/assets/170957530/9c32c3b3-4870-48a3-8a1e-cc1c2620824c">
 </p>
 <p>
 Task 1.
 </p>
 <br />
+
 
 <p>
 <img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/8ec97307-1c0c-437c-935c-dd1c764e602f">

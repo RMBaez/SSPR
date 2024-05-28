@@ -16,15 +16,19 @@ This tutorial outlines the process of enabling self service password reset avail
 
 <h2>Deployment and Configuration Steps</h2>
 
-- Task 1:  Create your own resource group which you will use throughout the project and demonstrate your understanding of the importance of Resource Groups in resource management
-- Task 2: Create an Azure Database for MySQL Server using the Azure Portal
-- Task 3: Configure access through the server firewall based on your IP address
-- Task 4: Connect to and authenticate with the Azure Database for MySQL Server
-- Task 5: Create a new database, load sample data and run queries against the data using the MySQL command line tool
-- Task 6: Update and query data in the new database and restore data to a point in time
-- Task 7: Restore the database to a specific point in time
-- Task 8: Clean up and delete unwanted resources to reduce costs
+A new employee has joined your organization.   
 
+Task 1: Create a user AZ500User1 who has joined your organization as an employee. 
+
+Task 2: Create a group for the users who have joined the organization. Name the group AZ500Group1.
+
+Task 3: Enable SSPR for AZ500Group1 of Azure AD users.  
+
+Task 4: Set up authentication methods and registration options for AZ500Group1.  
+
+Task 5: Set up notifications and customizations for AZ500Group1. 
+
+Task 6: Test the SSPR process as a user, i.e., AZ500User2, who is a member of AZ500Group1.  
 <h2>Deployment and Configuration Steps</h2>
 
 <p>

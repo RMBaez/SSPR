@@ -101,24 +101,11 @@ Task 6.
 
 
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/bd9bca2a-2de2-4c81-8a09-bcabf3c4586e">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/0bc5f2dd-9fdb-4d12-85b8-dcf266d15e99">
-
-
-
+<img width="1440" alt="image" src="https://github.com/RMBaez/SSPR/assets/170957530/0844d9b9-9b84-49d9-900e-37dbc20b9f5d">
+<img width="1440" alt="image" src="https://github.com/RMBaez/SSPR/assets/170957530/b00571c8-e540-457e-b1a9-864119fe5d32">
 </p>
+
 <p>
 Task 7.
-</p>
-<br />
-
-<p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/32b8c522-2a5f-4518-aded-26eed4bc70cf">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9fc8b287-7d91-4a4c-baee-eaeb30dd282a">
-
-
-</p>
-<p>
-Task 8.
 </p>
 <br />

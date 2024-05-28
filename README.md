@@ -1,9 +1,10 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img width="401" alt="image" src="https://github.com/RMBaez/SSPR/assets/170957530/a9dfb9b3-fef8-47da-92a3-4c974c79030c">
+
 </p>
 
-<h1> Microsoft Azure Relational Databases(Azure) </h1>
-This tutorial outlines the foundation to understanding and implementing Azure relational databases specifically in the context of MySQL using the fully managed database offerings available through Microsoft Azure.
+<h1> Enable self-service password reset (Azure) </h1>
+This tutorial outlines the process of enabling self service password reset available through Microsoft Azure.
 <br />
 
 
@@ -11,10 +12,6 @@ This tutorial outlines the foundation to understanding and implementing Azure re
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure AD
-- Bash
-- Firewall
-- MySQL
-
 
 
 <h2>Deployment and Configuration Steps</h2>

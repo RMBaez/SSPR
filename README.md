@@ -45,35 +45,36 @@ Task 1.
 
 
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/8ec97307-1c0c-437c-935c-dd1c764e602f">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/d99e7d00-cad4-4742-8aaf-0b8279f67713">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/69704a49-bc86-4b59-97e5-26ede7edf76c">
-
-
+<img width="1440" alt="image" src="https://github.com/RMBaez/SSPR/assets/170957530/b29dea7b-4a0b-43dd-837e-a8a0c27778de">
 </p>
+
 <p>
 Task 2.
 </p>
 <br />
 
+
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9206c676-f21c-4a06-9c6d-05139dfed1ac">
-
-
+<img width="1440" alt="image" src="https://github.com/RMBaez/SSPR/assets/170957530/56aa3382-2351-4015-9016-88bd32f5c6aa">
+<img width="1440" alt="image" src="https://github.com/RMBaez/SSPR/assets/170957530/fcf12a48-edc0-4235-8589-d10d00410be6">
 </p>
+
 <p>
 Task 3.
 </p>
 <br />
 
-<p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/390e9ab3-52d3-4ad5-a0bf-3e4865ffadcd">
 
+<p>
+<img width="1440" alt="image" src="https://github.com/RMBaez/SSPR/assets/170957530/5c95a12a-dd95-47a5-a990-29b7bd544bfa">
+<img width="1440" alt="image" src="https://github.com/RMBaez/SSPR/assets/170957530/ffaca64f-654b-4acc-86ad-a4dfb6b6469f">
 </p>
+
 <p>
 Task 4.
 </p>
 <br />
+
 
 <p>
 <img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/79a1d5ad-a6ac-4e32-88d3-013c0b1307da">
